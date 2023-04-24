@@ -1,6 +1,1 @@
-{
-  "packs": [
-    "myfavoritetwitchemotes.json"
-  ],
-  "homeserver_url": "https://matrix.ads34.de/"
-}
+{"packs":["ChineseDragon.json","myfavoritetwitchemotes.json"],"homeserver_url":"https://matrix.ads34.de"}
